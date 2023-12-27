@@ -233,7 +233,7 @@ pytz==2023.3.post1
 pytz-deprecation-shim==0.1.0.post0
 pywhatkit==5.4
 pywikihow==0.5.7
-pywin32==304
+
 pywin32-ctypes==0.2.2
 pywinpty==2.0.5
 PyYAML==6.0.1
