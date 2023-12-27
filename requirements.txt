@@ -18,7 +18,7 @@ asyncio==3.4.3
 attrs==21.4.0
 audioplayer==0.6
 backcall==0.2.0
-beautifullsoup4
+beautifulsoup4
 beautifulsoup4==4.11.1
 bech32==1.2.0
 bleach==5.0.0
